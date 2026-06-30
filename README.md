@@ -47,3 +47,23 @@ It is built using core web technologies with a focus on responsive design, clean
 ---
 
 ## 📂 Project Structure
+
+Portfolio/
+│
+├── index.html
+├── styles.css
+├── script.js
+│
+├── assets/
+│ ├── images
+│ └── files
+│
+└── README.md
+---
+
+## 🚀 Run Locally
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Sentamil23/Portfolio.git
